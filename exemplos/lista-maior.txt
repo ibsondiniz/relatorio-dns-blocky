@@ -1,0 +1,4 @@
+# lista maior de exemplo
+*.smarttv-exemplo.com
+graph.instagram.com
+app-measurement.com
