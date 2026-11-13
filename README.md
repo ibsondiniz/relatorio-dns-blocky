@@ -15,7 +15,7 @@ Em casa, um celular antigo virou servidor Linux e roda o [Blocky](https://github
 
 ![Relatório gerado a partir do registro de exemplo](docs/print.jpg)
 
-[Veja o relatório de exemplo](docs/relatorio-exemplo.html), gerado a partir de um registro **inventado** de uma rede doméstica fictícia. Nenhum dado real de navegação está neste repositório.
+O relatório completo de exemplo está em [docs/relatorio-exemplo.html](docs/relatorio-exemplo.html): baixe o arquivo e abra no navegador. Ele foi gerado a partir de um registro **inventado** de uma rede doméstica fictícia. Nenhum dado real de navegação está neste repositório.
 
 ## Como rodar
 
